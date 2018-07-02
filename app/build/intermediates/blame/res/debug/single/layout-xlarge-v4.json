@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "P:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contact_list.xml",
+        "source": "P:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\src\\main\\res\\layout-xlarge\\contact_list.xml"
+    },
+    {
+        "merged": "F:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contact_list.xml",
+        "source": "F:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\src\\main\\res\\layout-xlarge\\contact_list.xml"
+    },
+    {
+        "merged": "F:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\view_contact_entry.xml",
+        "source": "F:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\src\\main\\res\\layout-xlarge\\view_contact_entry.xml"
+    },
+    {
+        "merged": "P:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\view_contact_entry.xml",
+        "source": "P:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\src\\main\\res\\layout-xlarge\\view_contact_entry.xml"
+    },
+    {
+        "merged": "F:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_contact_details.xml",
+        "source": "F:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\src\\main\\res\\layout-xlarge\\activity_contact_details.xml"
+    },
+    {
+        "merged": "P:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_contact_details.xml",
+        "source": "P:\\Submission\\ContactList-W15016306-JoshuaHiggins\\app\\src\\main\\res\\layout-xlarge\\activity_contact_details.xml"
+    }
+]
